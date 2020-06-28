@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this my frist line from master
+=======
+this my frist line from bug
+>>>>>>> bug
